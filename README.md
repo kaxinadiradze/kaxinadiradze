@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**kaxinadiradze/kaxinadiradze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a backend developer working with NestJS, Objection.js, and PostgreSQL. I also have experience in penetration testing and bug bounty hunting.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Backend Developer (NestJS, Objection.js, PostgreSQL)
+
+🛡️ Penetration Tester & Bug Bounty Hunter
+
+🎯 Always learning new security exploits & automation techniques
+
+🛠️ Tech Stack
+
+Languages: JavaScript, TypeScript
+
+Backend: NestJS, Node.js, Objection.js
+
+Database: PostgreSQL, SQLite
+
+Security: Shodan, Burp Suite, Kali Linux
+
+📊 GitHub Stats
+
+
+
+🌐 Connect with Me
+
+
+
+
+⚡ Fun fact: I love breaking things (ethically) and making them more secure!
+
