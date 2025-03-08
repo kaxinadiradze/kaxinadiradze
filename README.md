@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm a backend developer working with NestJS, Objection.js, and PostgreSQL. I also have experience in penetration testing and bug bounty hunting.
+Welcome to my GitHub profile! I'm a backend developer working with NestJS, Objection.js, and PostgreSQL. I also have experience in penetration testing and ethical hacking
 
 🚀 About Me
 
