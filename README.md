@@ -13,8 +13,11 @@ Welcome to my GitHub profile! I'm a backend developer working with NestJS, Objec
 🛠️ Tech Stack
 
 Languages: JavaScript, TypeScript
+
 Backend: NestJS, Node.js, Objection.js
+
 Database: PostgreSQL, SQLite
+
 Security: Shodan, Burp Suite, Kali Linux
 
 ⚡ Fun fact: I love breaking things (ethically) and making them more secure!
